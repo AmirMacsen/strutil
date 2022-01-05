@@ -1,3 +1,3 @@
-module github.com/AmirMascen/strutil
+module github.com/AmirMacsen/strutil
 
 go 1.16
